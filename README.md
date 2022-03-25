@@ -1,2 +1,0 @@
-# HelpfulCommands
-Helpful Commands
