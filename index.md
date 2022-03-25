@@ -1,6 +1,4 @@
-## The "Documentation Hub"
-
-### Single Page Docs
+# "Documentation Hub"
 
 * [Test](.)
 * [Chapter 1: Unix](./unix.md)
